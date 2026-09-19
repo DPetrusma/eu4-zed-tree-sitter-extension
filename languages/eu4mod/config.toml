@@ -1,0 +1,4 @@
+name = "EU4 Modding"
+grammar = "eu4mod"
+path_suffixes = ["mod", "gfx", "gui", "txt"]
+line_comments = ["# "]
